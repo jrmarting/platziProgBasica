@@ -1,0 +1,1 @@
+Este proyecto, esta realizado bajo el curso de Fundamentos Basicos de Platzi, y trata de todos los temas y ejercicios propuestos dentro del mismo, el diseño y codificacion es una propuesta propia, para poner en practica los fundamentos en Desorrollo Web y programacion en javaScript.
